@@ -1,5 +1,11 @@
 give @a[tag=!StarterGiven] Shulker_box 0
 give @a[tag=!StarterGiven] cobblestone 32 0
+give @a[tag=!StarterGiven] wooden_sword 1 0
+give @a[tag=!StarterGiven] wooden_pickaxe
+give @a[tag=!StarterGiven] wooden_axe
+give @a[tag=!StarterGiven] Wooden_hoe
+give @a[tag=!StarterGiven] Wooden_shovel1
 give @a[tag=!StarterGiven] wood_plank 64 0
 give @a[tag=!StarterGiven] stick 1 0
+w @a[tag=!StarterGiven] §o§l§byou have been given your starter pack§r§o§l§khave fun on the server
 tag @a[tag=!StarterGiven] add StarterGiven

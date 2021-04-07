@@ -1,2 +1,2 @@
 say §rafk player(s) : @a[tag=afk] .
-say §o§l§2§Khoi will all die, lol jk
+say §o§l§2just remeber :§k hoi will all die, lol jk

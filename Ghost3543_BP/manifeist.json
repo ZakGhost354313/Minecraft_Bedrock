@@ -2,10 +2,10 @@
     "format_version": 1,
     "header": {
         "description": "",
-        "name": "",
+        "name": "Ghost3543_BP",
         "uuid": "c71d02ad-e5ef-42f9-9799-7cbd5279ef",
         "version": [1, 16, 210],
-        "min_engine_version": [1, 14, 60]
+        "min_engine_version": [1, 16, 0]
     },
     "modules": [
         {
